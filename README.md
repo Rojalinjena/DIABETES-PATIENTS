@@ -1,2 +1,3 @@
 # DIABETES-PATIENTS
-DIABETES prediction systrem
+DIABETES prediction system 
+A diabetes prediction system is a computational tool or model designed to predict the likelihood of an individual developing diabetes based on various input factors. These factors often include personal health data, lifestyle choices, genetic predispositions, and other relevant information. Machine learning algorithms are commonly used in the development of these systems to analyze historical data, identify patterns, and make predictions about future occurrences of diabetes. The goal is to provide early detection and intervention, enabling individuals to take preventive measures or manage the condition more effectively. The system's predictions are typically based on a set of features extracted from a person's health records or other relevant data sources.
